@@ -1,0 +1,25 @@
+{
+  "name": "testscypress",
+  "version": "1.0.0",
+  "description": "Cypress Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vassa306/testscypress.git"
+  },
+  "keywords": [
+    "cy"
+  ],
+  "author": "vaclav jurena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vassa306/testscypress/issues"
+  },
+  "homepage": "https://github.com/vassa306/testscypress#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}

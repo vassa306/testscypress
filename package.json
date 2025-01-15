@@ -4,7 +4,8 @@
   "description": "Cypress Project",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run"
+    "test": "cypress run",
+    "runHeadless": "npx cypress run --headless --config-file cypress.config.js"
   },
   "repository": {
     "type": "git",
